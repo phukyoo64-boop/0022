@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260922_170234",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Farcical Apocalyptic Kitchen",
+      "leads": [
+        "Ursula",
+        "Hitler"
+      ],
+      "reasoning": "This scene focuses on the escalating tension between Ursula and Hitler within the bunker setting, using their distinct personalities to create humor while building towards a big reveal.",
+      "scene": "A dimly lit underground bunker with flickering red lights. Bombs explode in the distance, adding an ominous background noise. Miles and Owen are tied to counters. A hobo is seen outside through a window, yelling 'Yee-haw!' at the strange events unfolding inside.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Alright, you Nazi freak! I'm the executive producer now, got it?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Quiet, woman! You will address me as Fuhrer!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Execu-wha?! What's that supposed to mean, anyway?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "It means nothing! Just do as ordered or face the consequences.",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Why must everything be so chaotic, Kyle? Can't you control this... this... thing?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Satisfyingly vague. That's all a dictator needs.",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "What’s going on out there? Why are they laughing at us?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "This is not funny, Charlie. You understand that, right?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Foolish man! You will cease this nonsense immediately!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22350",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

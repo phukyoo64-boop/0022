@@ -1,0 +1,86 @@
+{
+  "timestamp": "20260922_170210",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Executive Producer Conflicts",
+      "leads": [
+        "Ursula",
+        "Hitler"
+      ],
+      "reasoning": "This scene focuses on the conflict between Ursula and Hitler over executive producer credit within the chaotic environment of the underground bunker. It incorporates elements of humor and tension typical of Coen/Sorkin/Gilroy writing styles.",
+      "scene": "In the dimly lit interior of an underground bunker, various equipment from kitchens and war rooms are scattered around. Miles and Owen sit tied to counters in the kitchen area, with red lights flashing ominously overhead. A hobo yells 'Yee-haw!' outside through a broken window.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "You can't just ignore my contributions! I've been working tirelessly behind the scenes!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Behind the scenes? You're nothing but a petty old woman trying to steal my thunder!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Petty? I'm the only one who understands the true vision here! And don’t you dare look at me like that.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "I don't care about your silly vision! The real power lies with me!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Well, maybe not for long...",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Listen carefully, Hitler. This project is mine now, and if anyone challenges it, they'll find themselves in serious trouble.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "You think you can just take over from me, huh? You have no idea what's coming next...",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22325",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260922_170258",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Grand Convergence",
+      "leads": [
+        "Ursula",
+        "Hitler"
+      ],
+      "reasoning": "This scene captures the tension between Ursula's need for recognition and control versus Hitler's obsessive need for dominance, leading to a chaotic climax.",
+      "scene": "In an underground bunker that has somehow merged with Miles and Owen's modern kitchen. Red emergency lights flash around them while the sound of explosions echo from above. The air is thick with tension and the smell of something metallic, possibly rust or decayed meat. The room is cluttered with outdated technology, vintage furniture, and modern appliances.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Well, well, well! My dear, you look like quite the little Nazi in your current condition.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "You dare mock me? In my finest hour?!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Oh stop pouting, darling. I just wanted executive producer credit—after all this? You owe me at least that much.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "My power comes first, Ursula! You are nothing but a puppet!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "A puppet? Please, my beauty serum was genius! It transformed me into a vision of youth and elegance! Now, give it back! I deserve recognition for this entire mess.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Recognition means nothing when the world burns! Stop playing games; we need to focus on survival!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Survival my foot! Your petty fears won’t save anything or anyone!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Silence!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Or shall we see who’s louder?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22375",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

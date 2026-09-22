@@ -1,0 +1,86 @@
+{
+  "timestamp": "20260922_170032",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Dance of Distract",
+      "leads": [
+        "Charlie",
+        "Ursula"
+      ],
+      "reasoning": "This scene captures the chaotic energy required by the plotpoint while allowing distinct character voices. It sets up the tension between Charlie’s manic distraction and Ursula’s demands.",
+      "scene": "The modern kitchen is dimly lit with red strobe lights reflecting off the walls. Bombs explode in the distance, adding an ominous backdrop. Charlie, tied to a counter, frantically spins around, his jumpsuits flailing wildly. Ursula, transformed into a young blonde woman, stands nearby, her eyes fixed on Charlie as he dances.",
+      "dialogue": [
+        {
+          "character": "Charlie",
+          "line": "Yee-haw! Yee-haw! I’m not letting you ruin my dance party!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Miles! Owen! Do you see what he's doing? We need control here!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Oh no, this isn't about control. This is about dancing and distracting from the apocalypse!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Stop your foolishness! Who do you think you are?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "I am the man who turns chaos into jazz—temporal rift or no temporal rift!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "You’re going to get us all killed.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Hey now, it’s showtime—and everyone needs a good distraction, right?",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22175",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Charlie",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

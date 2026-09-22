@@ -1,0 +1,79 @@
+{
+  "timestamp": "20260922_165935",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Revelation",
+      "leads": [
+        "Hitler",
+        "Ursula"
+      ],
+      "reasoning": "This scene captures the intense conflict between Hitler and Ursula, leading to a big reveal about their intertwined fates in a darkly comedic tone.",
+      "scene": "In a dimly lit underground bunker filled with flickering lights and the distant rumble of bombs, Hitler drags a trembling young Ursula towards his workbench. The room is cluttered with machinery and strange devices. Miles and Owen are tied to counters along the walls, their faces pained but silent.",
+      "dialogue": [
+        {
+          "character": "Hitler",
+          "line": "You think you can outsmart me? You little bitch!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "I am not your 'bitch,' fascist scum! Release me from these chains.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "No, no, no! I've finally found my true form—forever youthful!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "And what good does that do if we're both doomed here?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Doomed? We will conquer this madness together!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Together in a world of absurdity? Fine by me.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22137",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "timestamp": "20260922_170129",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Serpent's Whisper",
+      "leads": [
+        "Ursula",
+        "Hitler"
+      ],
+      "reasoning": "This scene focuses on Ursula's manipulation and Hitler's madness, setting up the dynamic tension that will lead to a big reveal.",
+      "scene": "A dimly lit underground bunker with flickering lights, surrounded by broken machinery and debris from recent bombings. A radio plays jazz music in the background, contrasting with the chaos.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Klaus, you know better than to ignore me. I’m your producer now.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "KLAUS! This is no time for idle chatter! Report!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "I’ll whisper my threats into his ear; that should be loud enough, shouldn’t it?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "CHARLIE! DANCE! NOW!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Did he just call me blonde? Oh, how I love this,",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "STOP MAKING SENSE, KARLISCHKA! Report the situation immediately!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Listen closely, little Hitler. You’re not in charge here anymore. I am.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "MY SERMONS ARE LAW! WHOSE IS THE HIGHER AUTHORITY HERE, YOU WITCH?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22262",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

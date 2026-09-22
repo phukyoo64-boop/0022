@@ -1,0 +1,86 @@
+{
+  "timestamp": "20260922_165917",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Kitchen Conundrum",
+      "leads": [
+        "Hitler",
+        "Ursula"
+      ],
+      "reasoning": "This scene captures the essence of the plotpoint where Hitler becomes fixated on a new threat (Ursula), leading to a dynamic exchange that sets up the upcoming conflict.",
+      "scene": "A modern kitchen has been transformed into a surreal Nazi bunker with flickering lights and sounds of explosions in the background. Miles and Owen are tied to counters, while a hobo stands outside in disbelief. Ursula is now a young blonde woman, confidently injecting herself with serum vials from a nearby table.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Ah, Miles, Owen! I believe you owe me an executive producer credit for my efforts here.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "What? No! You're not running _my_ show!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Oh, but it's all my show now, darling. Look at this,",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "_lunges_, 'I will not be bested by some... beauty regime!'",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "'You are still the Führer, but...' she holds out a hand, '...you must learn to share.'",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "'Silence!'",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "'Well, let's put that to the test. How do you feel about being an extra in your own film?'}",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22112",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

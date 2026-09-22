@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260922_170040",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Masked Truth",
+      "leads": [
+        "Susan",
+        "Hitler"
+      ],
+      "reasoning": "This scene encapsulates Susan being forced by Hitler into a dangerous situation while maintaining the comedic tone established earlier in the narrative.",
+      "scene": "Dimly lit room within an underground bunker",
+      "dialogue": [
+        {
+          "character": "Susan",
+          "line": "Oh no, not again!",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "SILENCE!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Susan",
+          "line": "(Struggling) But I'm fine! Just give me my phone!",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "I said SILENCE, you insolent wench!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Susan",
+          "line": "Are you sure that's a good idea? I mean, with all due respect.",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "RESPECT? You dare to question me after WHAT YOU DID TO URSLA?!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Susan",
+          "line": "Well, it was just a little serum. What did you expect? Youth elixirs are complicated.",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "You will NOT mock ME and MY precious experiments!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Susan",
+          "line": "But seriously, you should probably wear gloves next time. Your hands got pretty... dirty.",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22200",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Hitler",
+        "Susan"
+      ],
+      "had_source_material": false
+    }
+  ]
+}
