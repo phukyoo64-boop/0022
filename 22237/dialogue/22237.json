@@ -1,0 +1,107 @@
+{
+  "timestamp": "20260923_204320",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Shattered Vials",
+      "leads": [
+        "Hitler",
+        "Kyle"
+      ],
+      "reasoning": "This scene highlights Eva's internal conflict after accidentally breaking Hitler’s serum vials, leading to significant consequences. It also sets up the growing tension between Eva and Hitler.",
+      "scene": "",
+      "dialogue": [
+        {
+          "character": "Hitler",
+          "line": "Kreisau! What is this mess?!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Kyle",
+          "line": "(whispered) Stay calm, Eva.",
+          "cast_type": "canonical",
+          "raw_name": "Kyle",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "EVA! Explain yourself!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Do you know what this could mean?!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Delay?! Do you hear me, woman?!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Angry?! You will be when I'm done with you!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Focus? What is there to focus on?!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Vary? Vary how?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "That’s not an improvement, woman!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Ghosts?! Are you mad?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22237",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 10,
+      "speakers": [
+        "Hitler",
+        "Kyle"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

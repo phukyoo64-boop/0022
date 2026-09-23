@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260923_204214",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Distracted Dance",
+      "leads": [
+        "Charlie",
+        "Ursula"
+      ],
+      "reasoning": "This scene captures the chaotic moment where Charlie’s frantic dance is both entertaining and a desperate attempt to distract from the growing danger. It highlights the absurdity and dark humor of the situation.",
+      "scene": "A modern kitchen has been dragged inside an underground Nazi bunker due to some inexplicable time loop. Red lights flicker wildly around the room, casting eerie shadows. Bombs can be heard exploding in the distance. Miles and Owen are tied to opposite sides of the counter, their faces contorted with fear but hope for rescue.",
+      "dialogue": [
+        {
+          "character": "Charlie",
+          "line": "Spin, spin, spin! Can't you see I'm trying to save us all?",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Excuse me, young man. This project should have executive producer credit.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Executive producer credit?! In my world, that's just a fancy way of saying 'dance more!'",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Hey, maybe if you stop screaming at your assistant, things might not go up in flames!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Or not. Maybe distract him with this dance!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "What is so amusing about my plight?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "You look fabulous, darling! If only we had an Oscar ceremony right now!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Well, someone has to keep spirits high! And trust me, these red lights are a bit too... intense.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Oh, come on! It’s either this or I break into a rendition of 'Sweet Child O’ Mine' at top volume. What do you prefer?",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22162",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Charlie",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

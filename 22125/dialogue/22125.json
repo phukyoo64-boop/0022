@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260923_203853",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Serpent's Boudoir",
+      "leads": [
+        "Ursula",
+        "Kyle"
+      ],
+      "reasoning": "This scene captures the moment when Ursula transforms into a young blonde woman, setting up the reveal and establishing tension through dialogue.",
+      "scene": "Inside the kitchen, which has been transported inside an underground Nazi bunker due to a mysterious temporal rift. Flashlights beam intermittently, casting shadows across the room. Miles and Owen remain tied to the counter in shock, while Charlie dances uncontrollably. Outside, the hobo observes with a mix of confusion and interest.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Ah, Kyle! Finally something that works without my constant nagging!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Kyle",
+          "line": "Ursula, what did you do? Why are you screaming at me?",
+          "cast_type": "canonical",
+          "raw_name": "Kyle",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Sshh! Don't make waves until I’m done looking like this. Just… just pretend everything’s normal.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Kyle",
+          "line": "Normal? You look like you're auditioning for a shampoo commercial!",
+          "cast_type": "canonical",
+          "raw_name": "Kyle",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Shh, focus, boyo! Now go get me more coffee—er, hot water. And bring back Hitler.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Kyle",
+          "line": "Yes, ma’am. But why can’t we just hide it somehow?",
+          "cast_type": "canonical",
+          "raw_name": "Kyle",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Because hiding isn't working, is it? We need to make them see the new me first, then deal with whatever happens afterward.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Kyle",
+          "line": "Well, it's definitely making things harder on us both. How do you even expect him to react when he sees you?",
+          "cast_type": "canonical",
+          "raw_name": "Kyle",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "He'll appreciate the improvement. He won't care about the details as long as his grand plans aren't interrupted by old age.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22125",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Kyle",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

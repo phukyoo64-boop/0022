@@ -1,0 +1,86 @@
+{
+  "timestamp": "20260923_203908",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Transformation and Temporal Rift",
+      "leads": [
+        "Ursula",
+        "Hitler"
+      ],
+      "reasoning": "This scene highlights the contrast between Ursula's desperate pursuit of youth and recognition versus Hitler's erratic behavior driven by renewed vigor. It sets up the chaos that follows their unexpected arrival in the Nazi bunker.",
+      "scene": "The kitchen floor rumbles violently as if it’s being pulled from its foundations. Pots, pans, and utensils fly through the air. The walls crack open revealing a dimly lit underground bunker filled with flickering red lights and bomb debris. Bombs explode intermittently above, sending shockwaves throughout the space.",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Oh my god! Where are we? This is some kind of... historical nightmare!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Fascinating development, Frau Weiss! You look... quite lovely now.",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Loveliness be damned! We’re executive producers here, not models for Adolphus’s gallery!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Execu-wha-what? Oh right, your precious credit demands.",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Just remember who brought this bunker to life! Now untie me before I make you regret anything!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Unbind her at once! She must witness our glorious future together!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Glory? More like horror! I command you to let us go or I will unleash chaos on this entire operation!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22150",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

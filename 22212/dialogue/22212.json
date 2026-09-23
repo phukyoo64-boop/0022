@@ -1,0 +1,100 @@
+{
+  "timestamp": "20260923_204238",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Dance of Desperation",
+      "leads": [
+        "Charlie",
+        "Hitler"
+      ],
+      "reasoning": "This scene captures the chaos through the lens of two characters who embody conflicting desires—entertainment versus control—in a humorous yet tense setting.",
+      "scene": "Inside a dimly lit Nazi bunker filled with flickering red lights and the sound of distant explosions. Charlie is dancing frantically while Klaus reports to Hitler about the hostage situation in the kitchen.",
+      "dialogue": [
+        {
+          "character": "Hitler",
+          "line": "Wassup?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Stranger things have happened, but I expect you know how to handle it, don't you?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Dancing?! Why do they always have to dance around here?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Yee-haw! Yee-haw!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "What is he even doing?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Well, this calls for action! Kyle, get me those gas masks now!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "BLOODY HELL! What is happening?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "SUSAN?! GIVE ME THAT GIRL!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Yee-haw! Yee-haw!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22212",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Charlie",
+        "Hitler"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

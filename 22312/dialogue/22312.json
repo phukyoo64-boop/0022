@@ -1,0 +1,93 @@
+{
+  "timestamp": "20260923_204424",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Dancer’s Spin",
+      "leads": [
+        "Charlie",
+        "Ursula"
+      ],
+      "reasoning": "This scene captures the chaotic interplay between Charlie’s frantic dance and Ursula’s demanding nature in the backdrop of escalating tension.",
+      "scene": "Inside the modern kitchen now integrated within a dimly lit underground bunker, the flickering lights cast eerie shadows on the walls. Bombs explode above, and red lights flash erratically around the space. Charlie spins wildly under these lights, ignoring the chaos.",
+      "dialogue": [
+        {
+          "character": "Charlie",
+          "line": "Dance, damn it! Just one more spin!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Miles! Owen! Who do you think gets the credit here?",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Oh look, somebody's having an identity crisis!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "And who are you calling old, hobo? I bet you've never even seen a real dance.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Stop your foolishness, Charlie! This is serious business.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "I'll keep dancing until you understand that entertainment isn't just for Nazis.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "If only you were as impressive in the trenches as you are here.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Trenches?! What about my comfort zone? It’s all about style, darling.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22312",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Charlie",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

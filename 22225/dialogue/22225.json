@@ -1,0 +1,79 @@
+{
+  "timestamp": "20260923_204255",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Transformed Fates",
+      "leads": [
+        "Hitler",
+        "Susan"
+      ],
+      "reasoning": "This scene focuses on the confrontation between Hitler and Susan, showcasing their opposing natures while maintaining distinct dialogue styles.",
+      "scene": "In a dimly lit underground room within a crumbling Nazi bunker, heavy machinery hums in the background. Red emergency lights flash intermittently. Hitler stands over Susan, who struggles against him. Charlie dances wildly around them to distract, but the bombs above create a tense backdrop of explosions echoing from afar.",
+      "dialogue": [
+        {
+          "character": "Hitler",
+          "line": "WOMAN! WAKE UP AND SMELL THE BLOODSHED!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Susan",
+          "line": "Hitler, if you don't stop right now, I swear I'll cry—on your shoes.",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Cry? Cry, you think that makes me weak? This is strength, woman. Strength of will!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Susan",
+          "line": "Yeah, I'm going to laugh so hard it comes out your gas mask, bastard.",
+          "cast_type": "canonical",
+          "raw_name": "Susan",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Gas mask or no, my glorious vision shall prevail!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Silence, you traitor!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22225",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Hitler",
+        "Susan"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

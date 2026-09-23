@@ -1,0 +1,93 @@
+{
+  "timestamp": "20260923_203834",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "The Kitchen Intrusion",
+      "leads": [
+        "Ursula",
+        "Hitler"
+      ],
+      "reasoning": "This scene sets up the initial conflict by highlighting Ursula’s need for recognition and control, while introducing Hitler's erratic behavior through their interactions.",
+      "scene": "Modern Kitchen in an Underground Bunker",
+      "dialogue": [
+        {
+          "character": "Ursula",
+          "line": "Miles! Owen! Listen to me, you idiots! I deserve that exec producer credit just as much as you do!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "(screaming) Kyle, are they even listening? Do they know who is in charge here?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "And don't look at him like that, Hitler. You're running out of time.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "Time! Time! How can there be a shortage of time when I'm practically immortal now?",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Look at yourself, Miles. Aren't we both stuck with this ridiculous kitchen setup? At least I’m still getting younger every minute.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "What did you say about being ‘younger’? I demand results, not excuses.",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Alright, alright… let’s see what the serum does next. (injects herself) Ahhh, perfection.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Hitler",
+          "line": "KAAAAAAyle!",
+          "cast_type": "canonical",
+          "raw_name": "Hitler",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22100",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Hitler",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}

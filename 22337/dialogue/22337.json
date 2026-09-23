@@ -1,0 +1,86 @@
+{
+  "timestamp": "20260923_204446",
+  "cast_names": [
+    "Ursula",
+    "Hitler",
+    "Kyle",
+    "Charlie",
+    "Susan",
+    "Miles",
+    "Owen",
+    "Hobo"
+  ],
+  "hits_source": "scene_generation",
+  "drafts": [
+    {
+      "title": "Dance of Distraction",
+      "leads": [
+        "Charlie",
+        "Ursula"
+      ],
+      "reasoning": "This scene showcases how Charlie's chaotic dance momentarily distracts everyone from the rising tension between Ursula and Hitler.",
+      "scene": "The modern kitchen has been transported inside an underground Nazi bunker. Red lights flash intermittently, and distant bomb explosions can be heard in the background. Miles and Owen are tied to counter stools in one corner, while Klaus is reporting the crisis to Hitler, who remains oblivious due to Charlie’s distraction.",
+      "dialogue": [
+        {
+          "character": "Charlie",
+          "line": "Freeze! Time for my latest performance!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "What do you think you're doing? This is serious business, Charlie.",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "You mean like a comedy sketch about Nazis gone wild? Perfect timing!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Oh, don't worry, I'm just warming up!",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Alright, alright, enough of your nonsense. Miles and Owen, listen carefully. You are getting executive producer credit for this project!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        },
+        {
+          "character": "Charlie",
+          "line": "Executive producer credit in a Nazi bunker sounds kinda meta, right?",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ursula",
+          "line": "Fine then! But this time it's on my terms. And Charlie, keep dancing or next time no more performance tricks from you!",
+          "cast_type": "canonical",
+          "raw_name": "Ursula",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "22337",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Charlie",
+        "Ursula"
+      ],
+      "had_source_material": false
+    }
+  ]
+}
